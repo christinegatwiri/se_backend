@@ -137,7 +137,7 @@ CORS_ORIGIN_WHITELIST = [
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:3000/",
-    'http://3.16.215.210:8000'
+    'http://3.16.215.210:8000/'
 ]
 
 
